@@ -1,0 +1,6 @@
+D:\Mega\coding\VS\C#\dxfdecoder\dxfdecoder\dxfdecoder\dxfdecoderUc\obj\Debug\dxfdecoder.csprojResolveAssemblyReference.cache
+D:\Mega\coding\VS\C#\dxfdecoder\dxfdecoder\dxfdecoder\dxfdecoderUc\obj\Debug\dxfdecoder.Pathdecoder.resources
+D:\Mega\coding\VS\C#\dxfdecoder\dxfdecoder\dxfdecoder\dxfdecoderUc\obj\Debug\dxfdecoder.dxfdecoder1.resources
+D:\Mega\coding\VS\C#\dxfdecoder\dxfdecoder\dxfdecoder\dxfdecoderUc\obj\Debug\dxfdecoder.dxfdecoderUc.ExcelFileSelect.resources
+D:\Mega\coding\VS\C#\dxfdecoder\dxfdecoder\dxfdecoder\dxfdecoderUc\obj\Debug\dxfdecoder.dxfdecoderUc.para.resources
+D:\Mega\coding\VS\C#\dxfdecoder\dxfdecoder\dxfdecoder\dxfdecoderUc\obj\Debug\dxfdecoder.csproj.GenerateResource.Cache
